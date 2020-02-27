@@ -1,10 +1,11 @@
 # Name
 
-Adapter パターンをunityで組んだもの
-
-継承を使ったものと委譲を使ったものの２種類あります。
+Adapter パターン
 
 # DEMO
+
+Adapter パターンをunityで組んだもの 
+継承を使ったものと委譲を使ったものの２種類あります。
 
 ![example3211](https://user-images.githubusercontent.com/47607604/75462557-c82d5700-59c7-11ea-9408-75d66ab51dbe.gif)
 
