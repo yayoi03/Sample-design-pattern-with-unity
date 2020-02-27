@@ -4,9 +4,12 @@ GoFのデザインパターンをunity内で書いたサンプルシーンです
 
 # Demo
 全パターンのクラス図が各ディレクトリにあるので参考にしてください。
+
 ![Iterator Pattern](https://user-images.githubusercontent.com/47607604/75369899-9c4a9c80-5907-11ea-896e-2e98e9300f9e.png)
 
+
 全パターン以下のような出力結果のGIFを置いています。
+
 ![example3245](https://user-images.githubusercontent.com/47607604/75370048-db78ed80-5907-11ea-84b7-530866981b74.gif)
 
 # Link
