@@ -17,4 +17,4 @@ Adapter パターンをunityで組んだもの
 
 委譲を使ったもののクラス図
 
-![uml](https://user-images.githubusercontent.com/47607604/75462177-2b6ab980-59c7-11ea-9a26-5704f63f8cf4.png)
+![uml](https://user-images.githubusercontent.com/47607604/75565606-98e31c80-5a91-11ea-84b7-39d3572e1fa8.png)
