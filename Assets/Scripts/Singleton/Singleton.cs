@@ -9,7 +9,7 @@ public class Singleton
     {
         Debug.Log("インスタンスを生成しました。");
     }
-    public static Singleton getInstance()
+    public static Singleton GetInstance()
     {
         return singleton;
     }

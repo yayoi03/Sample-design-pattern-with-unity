@@ -8,8 +8,8 @@ public class PlayerSingleton : MonoBehaviour
     void Start()
     {
         Debug.Log("Start.");
-        Singleton obj1 = Singleton.getInstance();
-        Singleton obj2 = Singleton.getInstance();
+        Singleton obj1 = Singleton.GetInstance();
+        Singleton obj2 = Singleton.GetInstance();
         
         if (obj1 == obj2)
         {
