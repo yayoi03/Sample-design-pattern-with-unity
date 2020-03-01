@@ -25,7 +25,6 @@ public class PlayerPrototype : MonoBehaviour
         p2.Use("Hello, world.");
         ProductPrototype p3 = manager.Create("slash box");
         p3.Use("Hello, world.");
-        
     }
 
 }
