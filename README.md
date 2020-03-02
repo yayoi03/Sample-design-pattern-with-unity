@@ -45,6 +45,14 @@ Abstract Factoryパターン
 
 https://github.com/yayoi03/Sample-design-pattern-with-unity/tree/master/Assets/Scripts/AbstractFactory
 
+Bridgeパターン
+
+https://github.com/yayoi03/Sample-design-pattern-with-unity/tree/master/Assets/Scripts/Bridge
+
+Strategyパターン
+
+https://github.com/yayoi03/Sample-design-pattern-with-unity/tree/master/Assets/Scripts/Strategy
+
 # Usage
 Unity内で各パターンのPlayerスクリプトをgameObjectに追加して実行してください。（結果はconsoleに出力されます。）
 
